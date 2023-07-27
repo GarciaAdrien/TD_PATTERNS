@@ -1,0 +1,15 @@
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\bin\Debug\net6.0\GestionHoteliere.exe
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\bin\Debug\net6.0\GestionHoteliere.deps.json
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\bin\Debug\net6.0\GestionHoteliere.runtimeconfig.json
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\bin\Debug\net6.0\GestionHoteliere.dll
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\bin\Debug\net6.0\GestionHoteliere.pdb
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\GestionHoteliere.csproj.AssemblyReference.cache
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\GestionHoteliere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\GestionHoteliere.AssemblyInfoInputs.cache
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\GestionHoteliere.AssemblyInfo.cs
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\GestionHoteliere.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\GestionHoteliere.dll
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\refint\GestionHoteliere.dll
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\GestionHoteliere.pdb
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\GestionHoteliere.genruntimeconfig.cache
+C:\Users\Adrien\source\repos\GestionHoteliere\GestionHoteliere\obj\Debug\net6.0\ref\GestionHoteliere.dll
