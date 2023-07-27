@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adrien\\source\\repos\\GestionHoteliere\\GestionHoteliere\\GestionHoteliere.csproj": {}
+    "C:\\Users\\Adrien\\Desktop\\TD_PATTERNS\\GestionHoteliere\\GestionHoteliere.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adrien\\source\\repos\\GestionHoteliere\\GestionHoteliere\\GestionHoteliere.csproj": {
+    "C:\\Users\\Adrien\\Desktop\\TD_PATTERNS\\GestionHoteliere\\GestionHoteliere.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adrien\\source\\repos\\GestionHoteliere\\GestionHoteliere\\GestionHoteliere.csproj",
+        "projectUniqueName": "C:\\Users\\Adrien\\Desktop\\TD_PATTERNS\\GestionHoteliere\\GestionHoteliere.csproj",
         "projectName": "GestionHoteliere",
-        "projectPath": "C:\\Users\\Adrien\\source\\repos\\GestionHoteliere\\GestionHoteliere\\GestionHoteliere.csproj",
+        "projectPath": "C:\\Users\\Adrien\\Desktop\\TD_PATTERNS\\GestionHoteliere\\GestionHoteliere.csproj",
         "packagesPath": "C:\\Users\\Adrien\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adrien\\source\\repos\\GestionHoteliere\\GestionHoteliere\\obj\\",
+        "outputPath": "C:\\Users\\Adrien\\Desktop\\TD_PATTERNS\\GestionHoteliere\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
