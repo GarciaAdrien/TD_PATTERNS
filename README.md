@@ -34,7 +34,7 @@ https://refactoring.guru/fr/design-patterns/abstract-factory
 
 Le pattern Abstract Factory permet, à partir d'une interface, de créer une famille d'objets sans pour autant spécifier de classes concrètes. Pour chaque type d'objet (véhicule ici), nous disposons d'une classe abstraite et de n sous-classes, qui définiront chacune un modèle spécifique. Cela permet de les regrouper en "famille".
 
-![Description de l'image](./resx/1.png)
+![Description de l'image](./GestionHoteliere/resx/1.png)
 
 
 
@@ -51,7 +51,7 @@ https://refactoring.guru/fr/design-patterns/builder
 
 Ce pattern permet d'abstraire la construction d'objet complexes de leur implementation de sorte qu'un client puisse créer des objets complexes sans avoir a se preocuper des differences d'implementation.
 
-image
+![Description de l'image](./GestionHoteliere/resx/2.png)
 
 Pourquoi utiliser ce pattern:
 
@@ -62,9 +62,10 @@ https://refactoring.guru/fr/design-patterns/factory-method
 
 Le but de ce pattern est d'introduire une méthode abstraite de création d'objet en reportant la aux sous-classes concretes la création effective.
 
-image
+![Description de l'image](./GestionHoteliere/resx/3.png)
 
-image image
+![Description de l'image](./GestionHoteliere/resx/4.png)
+![Description de l'image](./GestionHoteliere/resx/5.png)
 
 Le pattern Singleton
 https://refactoring.guru/fr/design-patterns/singleton
@@ -78,7 +79,7 @@ https://refactoring.guru/fr/design-patterns/prototype
 
 Le but de ce pattern est de créer de nouveaux objets en dupliquant des objets existants appeles "prototypes". Ce derniers disposent d'une capacité de clonage
 
-image
+![Description de l'image](./GestionHoteliere/resx/6.png)
 
 Introduction des patterns de structuration
 L’objectif des patterns de structuration est de faciliter l’indépendance de l’interface d’un objet ou d’un ensemble d’objets vis-à-vis de son implantation. Dans le cas d’un ensemble d’objets, il s’agit aussi de rendre cette interface indépendante de la hiérarchie des classes et de la composition des objets. En fournissant les interfaces, les patterns de structuration encapsulent la composition des objets, augmentant le niveau d’abstraction du système à l’image des patterns de création qui encapsulent la création des objets. Les patterns de structuration mettent en avant les interfaces. L’encapsulation de la composition est réalisée non pas en structurant l’objet lui-même mais en transférant cette structuration à un second objet. Celui-ci est intimement lié au premier objet. Ce transfert de structuration signifie que le premier objet détient l’interface vis-à-vis des clients et gère la relation avec le second objet qui lui gère la composition et n’a aucune interface avec les clients externes.
@@ -88,7 +89,7 @@ https://refactoring.guru/fr/design-patterns/adapter
 
 Le but ici est d'adapter l'interface d'une classe donnee afin qu'elle puissent interagir avec un client
 
-image
+![Description de l'image](./GestionHoteliere/resx/7.png)
 
 Le pattern Decorator
 https://refactoring.guru/fr/design-patterns/decorator
@@ -99,7 +100,7 @@ Ici, on cherche a ajouter des fonctionnalités suplémentaire a un objet en pren
 
 Ce pattern constitue une alternative a l'heritage.
 
-image
+![Description de l'image](./GestionHoteliere/resx/8.png)
 
 Le pattern Decorator peut être utilisé dasn les domains suivants:
 
@@ -109,18 +110,20 @@ l'utilisation de l'héritage n'est pas une option car la hhierarchie d'objets es
 Le pattern Bridge
 https://refactoring.guru/fr/design-patterns/bridge
 
-image image
-
+![Description de l'image](./GestionHoteliere/resx/9.png)
+![Description de l'image](./GestionHoteliere/resx/10.png)
 C'est le principe d'ancapsuler complètement un objet dans un autre objet
 
 Le pattern Composite
 https://refactoring.guru/fr/design-patterns/composite
 
-image
+![Description de l'image](./GestionHoteliere/resx/11.png)
 
 Au sein de notre système de vente de véhicules, nous voulons représenter les sociétés clientes, notamment pour connaître le nombre de véhicules dont elles disposent et leur proposer des offres de maintenance de leur parc. Les sociétés qui possèdent des filiales demandent des offres de maintenance qui prennent en compte le parc de véhicules de leurs filiales. Une solution immédiate consiste à traiter différemment les sociétés sans filiale et celles possédant des filiales. Cependant cette différence de traitement entre les deux types de société rend l’application plus complexe et dépendante de la composition interne des sociétés clientes. Le pattern résout ce problème en unifiant l’interface des deux types de sociétés et en utilisant la composition récursive. Cette composition récursive est nécessaire car une société peut posséder des filiales qui possèdent elles-mêmes d’autres filiales.
 
 Les patterns de comportement
 TODO: Ajouter la définition des patterns de comportements
 
-image image image
+![Description de l'image](./GestionHoteliere/resx/12.png)
+![Description de l'image](./GestionHoteliere/resx/13.png)
+![Description de l'image](./GestionHoteliere/resx/14.png)
